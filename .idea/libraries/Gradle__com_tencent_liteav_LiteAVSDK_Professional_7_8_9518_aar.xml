@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.liteav:LiteAVSDK_Professional:7.8.9518@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e91be5f7289d128400dc19dec4662c99/LiteAVSDK_Professional-7.8.9518/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e91be5f7289d128400dc19dec4662c99/LiteAVSDK_Professional-7.8.9518/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e91be5f7289d128400dc19dec4662c99/LiteAVSDK_Professional-7.8.9518/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e91be5f7289d128400dc19dec4662c99/LiteAVSDK_Professional-7.8.9518/jars/libs/LiteAVSDK_Professional-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.liteav/LiteAVSDK_Professional/7.8.9518/b77a2bdf8edef65c851353e181bfbe71bbcd7c6e/LiteAVSDK_Professional-7.8.9518-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.liteav/LiteAVSDK_Professional/7.8.9518/b77a2bdf8edef65c851353e181bfbe71bbcd7c6e/LiteAVSDK_Professional-7.8.9518-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
